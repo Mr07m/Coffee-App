@@ -1,0 +1,147 @@
+{
+  "menu": [
+    {
+      "id": "m1",
+      "img": "Coffee-images/menu.png",
+      "name": "coffe 1",
+      "desc": "this is coffee one desc",
+      "price": "30"
+    },
+    {
+      "id": "m2",
+      "img": "Coffee-images/menu.png",
+      "name": "coffe 2",
+      "desc": "this is coffee one desc",
+      "price": "19"
+    },
+    {
+      "id": "m3",
+      "img": "Coffee-images/menu.png",
+      "name": "coffe 3",
+      "desc": "this is coffee one desc",
+      "price": "10"
+    },
+    {
+      "id": "m4",
+      "img": "Coffee-images/menu.png",
+      "name": "coffe 4",
+      "desc": "this is coffee one desc",
+      "price": "10"
+    },
+    {
+      "id": "m5",
+      "img": "Coffee-images/menu.png",
+      "name": "coffe 5",
+      "desc": "this is coffee one desc",
+      "price": "10"
+    },
+    {
+      "id": "m6",
+      "img": "Coffee-images/menu.png",
+      "name": "coffe 6",
+      "desc": "this is coffee one desc",
+      "price": "10"
+    },
+    {
+      "id": "m7",
+      "img": "Coffee-images/menu.png",
+      "name": "coffe 7",
+      "desc": "this is coffee one desc",
+      "price": "10"
+    },
+    {
+      "id": "m8",
+      "img": "Coffee-images/menu.png",
+      "name": "coffe 8",
+      "desc": "this is coffee one desc",
+      "price": "10"
+    }
+  ],
+  "service": [
+    {
+      "id": "s-1",
+      "title": "Title 1",
+      "desc": "This is title 1 desc"
+    },
+    {
+      "id": "s-2",
+      "title": "Title 2",
+      "desc": "This is title 2 desc"
+    },
+    {
+      "id": "s-3",
+      "title": "Title 3",
+      "desc": "This is title 3 desc"
+    },
+    {
+      "id": "s-4",
+      "title": "Title 4",
+      "desc": "This is title 4 desc"
+    },
+    {
+      "id": "s-5",
+      "title": "Title 5",
+      "desc": "This is title 5 desc"
+    },
+    {
+      "id": "s-6",
+      "title": "Title 6",
+      "desc": "This is title 6 desc"
+    },
+    {
+      "id": "s-7",
+      "title": "Title 7",
+      "desc": "This is title 7 desc"
+    },
+    {
+      "id": "s-8",
+      "title": "Title 8",
+      "desc": "This is title 8 desc"
+    }
+  ],
+  "contact": [
+    {
+      "id": "bb3f",
+      "email": "riya@gmail.com",
+      "name": "riya jha",
+      "phone": "8451822909",
+      "addr": "mira road"
+    }
+  ],
+  "home":[
+    {
+        "id":"home1",
+        "slogan":"Black Coffee is Awesome",
+        "title":"Time Discover Coffee house",
+        "para":"Lorem ipsum dolor sit amet consectetur adipisicing elit. At debitis ipsum vitae similique animi quo corrupti reiciendis eos! Vel accusamus molestias et atque labore repellendus cumque cum fugiat animi aut."
+    }
+  ],
+  "reviews":[
+    {
+        "id":"r1",
+        "msg":"ipsum dolor sit amet consectetur adipisicing ",
+        "name":"Name 1"
+    },
+    {
+        "id":"r2",
+        "msg":"ipsum dolor sit amet consectetur adipisicing ",
+        "name":"Name 2"
+    },
+    {
+        "id":"r3",
+        "msg":"ipsum dolor sit amet consectetur adipisicing",
+        "name":"Name 3"
+    },
+    {
+        "id":"r4",
+        "msg":"ipsum dolor sit amet consecteturcorrupti",
+        "name":"Name 4"
+    }
+  ],
+  "about":[
+    {
+        "id":"about-1",
+        "info":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis totam qui minima nisi ullam nostrum tempore quia hic. Accusantium minima repellendus vero ipsum cumque, neque exercitationem asperiores sit delectus incidunt itaque ullam earum suscipit dignissimos voluptatibus fugit tempore soluta architecto."
+    }
+  ]
+}

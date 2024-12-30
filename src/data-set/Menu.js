@@ -1,0 +1,58 @@
+[
+  {
+    id: "m1",
+    img: "Coffee-images/menu.png",
+    name: "coffe 1",
+    desc: "this is coffee one desc",
+    price: "30",
+  },
+  {
+    id: "m2",
+    img: "Coffee-images/menu.png",
+    name: "coffe 2",
+    desc: "this is coffee one desc",
+    price: "19",
+  },
+  {
+    id: "m3",
+    img: "Coffee-images/menu.png",
+    name: "coffe 3",
+    desc: "this is coffee one desc",
+    price: "10",
+  },
+  {
+    id: "m4",
+    img: "Coffee-images/menu.png",
+    name: "coffe 4",
+    desc: "this is coffee one desc",
+    price: "10",
+  },
+  {
+    id: "m5",
+    img: "Coffee-images/menu.png",
+    name: "coffe 5",
+    desc: "this is coffee one desc",
+    price: "10",
+  },
+  {
+    id: "m6",
+    img: "Coffee-images/menu.png",
+    name: "coffe 6",
+    desc: "this is coffee one desc",
+    price: "10",
+  },
+  {
+    id: "m7",
+    img: "Coffee-images/menu.png",
+    name: "coffe 7",
+    desc: "this is coffee one desc",
+    price: "10",
+  },
+  {
+    id: "m8",
+    img: "Coffee-images/menu.png",
+    name: "coffe 8",
+    desc: "this is coffee one desc",
+    price: "10",
+  },
+];

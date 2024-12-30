@@ -1,0 +1,33 @@
+.my-input input{
+  border: none;
+  outline: none;
+  background: transparent;
+  border-bottom:1px solid chocolate ;
+  color: white;
+}
+.contact{
+  /* border: 4px solid chocolate; */
+  background-color: transparent;
+  border-radius: 2rem;
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+label{
+  font-size: .7rem;
+}
+.heading h3{
+  font-family: "Satisfy", cursive;
+}
+form{
+  width: 75%;
+  
+}
+.my-input input{
+  padding: 10px 0px;
+  
+
+}
+
+
